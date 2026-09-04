@@ -1,22 +1,21 @@
 # Hi 👋, I'm Patrik Silva
 
-🚀 **Analista CNPI - Contador - Perito Judicial**  
+📊 **CNPI Analyst | Accountant | Judicial Accounting Expert**  
 🇧🇷 Brazil
 
 I’m a **Certified Accountant**, **Judicial Accounting Expert**, and **CNPI Analyst** focused on **Accounting, Finance, Investment Analysis, Financial Modeling, and Public Administration**.
 
-II also develop **data-driven tools, financial models, automation scripts, and analytical solutions**, combining **programming, accounting, finance, and data analysis** to transform complex financial and public-sector data into practical solutions.
+I develop **data-driven tools, financial models, automation scripts, and analytical solutions**, combining **programming, accounting, finance, and data analysis** to transform complex financial and public-sector data into practical solutions.
+
 ---
 
 ## 🌐 Where to find me
 
 <p align="left">
   <a href="https://github.com/Patrik9207">
-   <p align="left">
-  <a href="https://github.com/Patrik9207">
     <img src="https://img.shields.io/badge/GitHub-Patrik9207?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.instagram.com/patriksilva792?igsi=MTd3MjRxa2k5OHd4Yw==">
+  <a href="https://www.instagram.com/patriksilva792">
     <img src="https://img.shields.io/badge/Instagram-@PATRIKSILVA792-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
@@ -25,65 +24,73 @@ II also develop **data-driven tools, financial models, automation scripts, and a
 
 ## 🧠 What I do
 
--   📊 Financial & Accounting Analysis
--   🧮 Financial Modeling & Data Analysis
--   💻 Programming for Financial & Accounting Solutions
--   ⚙️ Automation of Accounting & Financial Processes
--   🏛️ Public Finance & Public Administration
--   ⚖️ Forensic Accounting & Judicial Expertise
--   📈 Investment Analysis & Financial Markets
--   🤖 Data-driven Tools & Process Automation
--   📊 Dashboards, Reports & Financial Analytics
--   🎓 Applied Research & Professional Education
+- 📊 Financial & Accounting Analysis
+- 🧮 Financial Modeling & Quantitative Analysis
+- 💻 Programming for Financial & Accounting Solutions
+- ⚙️ Automation of Accounting & Financial Processes
+- 🏛️ Public Finance & Public Administration
+- ⚖️ Forensic Accounting & Judicial Expertise
+- 📈 Investment Analysis & Financial Markets
+- 🤖 Data-driven Tools & Process Automation
+- 📊 Dashboards, Reports & Financial Analytics
+- 🎓 Applied Research & Professional Education
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Frontend
+### 📊 Data, Finance & Analytics
 
-![JavaScript](https://img.shields.io/badge/JavaScript-FFD43B?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
-![Tailwind](https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss)
-![Styled Components](https://img.shields.io/badge/Styled--Components-DB7093?style=for-the-badge&logo=styled-components)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 
-### Backend
+### 💻 Programming & Automation
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### DevOps & Tools
+### 🗄️ Databases & Tools
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=for-the-badge&logo=insomnia)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 📚 Areas of Interest
+
+- 💰 Corporate Finance
+- 📈 Financial Markets
+- 🏦 Investment Analysis
+- 📉 Risk & Return Analysis
+- 🧮 Financial Econometrics
+- 🏛️ Public Finance
+- 📋 Fiscal Management
+- ⚖️ Forensic Accounting
+- 📊 Data Analytics
+- 🤖 Process Automation
+- 🎓 Applied Research
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Patrik9207&show_icons=true&theme=tokyonight&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Patrik9207&layout=compact&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🚀 Philosophy
 
-> _"Technology is not just about writing code.  
-> It's about transforming data into insights, automating decisions, and building solutions that create measurable value in accounting and finance."_
+> _"Technology is not just about writing code._  
+> _It's about transforming data into insights, automating processes, and building solutions that create measurable value in accounting and finance."_
 
 ---
 
-⭐ If you like my work, consider starring a repository  
-🤝 Always open to collaborations, partnerships, and cool ideas
+⭐ If you find my projects useful, consider starring a repository.
+
+🤝 Open to collaborations, research, financial projects, and technology-driven solutions.
