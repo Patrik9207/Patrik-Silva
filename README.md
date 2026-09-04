@@ -78,8 +78,8 @@ II also develop **data-driven tools, financial models, automation scripts, and a
 
 ## 🚀 Philosophy
 
-> _"Code is not just about solving problems.  
-> It's about building solutions that scale, last, and generate real value."_
+> _"Technology is not just about writing code.  
+> It's about transforming data into insights, automating decisions, and building solutions that create measurable value in accounting and finance."_
 
 ---
 
