@@ -14,7 +14,7 @@ I also create content and share knowledge on **software development, SaaS, and t
 
 <p align="left">
   <a href="https://github.com/Patrik9207">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Patrik9207?style=for-the-badge&logo=github" />
   </a>
   <a href="https://instagram.com/oreidosites">
     <img src="https://img.shields.io/badge/Instagram-@PATRIKSILVA792-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
