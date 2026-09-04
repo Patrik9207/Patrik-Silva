@@ -5,8 +5,7 @@
 
 I’m a **Certified Accountant**, **Judicial Accounting Expert**, and **CNPI Analyst** focused on **Accounting, Finance, Investment Analysis, Financial Modeling, and Public Administration**.
 
-I also create content and share knowledge on **Accounting, Finance, Investment Analysis, Forensic Accounting, and Public Administration**, with a focus on **financial modeling, data analysis, and applied research**.
-
+II also develop **data-driven tools, financial models, automation scripts, and analytical solutions**, combining **programming, accounting, finance, and data analysis** to transform complex financial and public-sector data into practical solutions.
 ---
 
 ## 🌐 Where to find me
