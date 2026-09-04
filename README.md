@@ -23,14 +23,16 @@ II also develop **data-driven tools, financial models, automation scripts, and a
 
 ## 🧠 What I do
 
--   🏗️ SaaS & High-scale systems
--   ⚡ Performance optimization
--   🧩 Clean architecture & system design
--   🔐 Secure APIs & authentication
--   💳 Payments, subscriptions & business logic
--   🤖 Automation & integrations
--   📊 Dashboards & analytics
--   🎓 Teaching & mentoring developers
+-   📊 Financial & Accounting Analysis
+-   🧮 Financial Modeling & Data Analysis
+-   💻 Programming for Financial & Accounting Solutions
+-   ⚙️ Automation of Accounting & Financial Processes
+-   🏛️ Public Finance & Public Administration
+-   ⚖️ Forensic Accounting & Judicial Expertise
+-   📈 Investment Analysis & Financial Markets
+-   🤖 Data-driven Tools & Process Automation
+-   📊 Dashboards, Reports & Financial Analytics
+-   🎓 Applied Research & Professional Education
 
 ---
 
