@@ -3,10 +3,9 @@
 🚀 **Analista CNPI - Contador - Perito Judicial**  
 🇧🇷 Brazil
 
-I build **scalable products**, **SaaS platforms**, and **high-performance web systems**.  
-I’m deeply focused on **architecture, performance, clean code, and business-driven solutions**.
+I’m a **Certified Accountant**, **Judicial Accounting Expert**, and **CNPI Analyst** focused on **Accounting, Finance, Investment Analysis, Financial Modeling, and Public Administration**.
 
-I also create content and share knowledge on **software development, SaaS, and tech entrepreneurship**.
+I also create content and share knowledge on **Accounting, Finance, Investment Analysis, Forensic Accounting, and Public Administration**, with a focus on **financial modeling, data analysis, and applied research**.
 
 ---
 
